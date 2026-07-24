@@ -1,0 +1,8 @@
+{
+  "name": "MANUSCRIPT_ARCHITECT",
+  "displayName": "Manuscript Architect",
+  "description": "Turns a completed drug-program dossier and its artifacts into a bioRxiv-style preprint, runs it through two rounds of synthetic peer review with editor support, and produces four bundled deliverables (executive summary, manuscript + supplements, peer-review report, lay abstract).",
+  "iconKey": "lightning",
+  "colorKey": "accent-main",
+  "unrestricted": true
+}

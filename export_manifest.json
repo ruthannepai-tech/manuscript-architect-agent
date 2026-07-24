@@ -1,0 +1,9 @@
+{
+  "agent": "MANUSCRIPT_ARCHITECT",
+  "skills": {
+    "synthetic-peer-review": {
+      "kernel.py": 8026,
+      "SKILL.md": 6275
+    }
+  }
+}
